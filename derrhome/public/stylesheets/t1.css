@@ -1,0 +1,25 @@
+a.badge.badge-primary { background-color: #5D749D }	/* Main Primary color */
+.bg-primary-0 { background-color: #5D749D }	/* Main Primary color */
+.bg-primary-1 { background-color: #BCC8DC }
+.bg-primary-2 { background-color: #899BBC }
+.bg-primary-3 { background-color: #3B5482 }
+.bg-primary-4 { background-color: #223B69 }
+
+.bg-secondary-1-0 { background-color: #90589C }	/* Main Secondary color (1) */
+.bg-secondary-1-1 { background-color: #D6B9DC }
+.bg-secondary-1-2 { background-color: #B184BB }
+.bg-secondary-1-3 { background-color: #743581 }
+.bg-secondary-1-4 { background-color: #5A1C68 }
+
+.bg-secondary-2-0 { background-color: #DCE77F }	/* Main Secondary color (2) */
+.bg-secondary-2-1 { background-color: #F8FDD4 }
+.bg-secondary-2-2 { background-color: #F3FBB0 }
+.bg-secondary-2-3 { background-color: #B3BF4B }
+.bg-secondary-2-4 { background-color: #8E9A26 }
+
+.bg-complement-0 { background-color: #ECC782 }	/* Main Complement color */
+.bg-complement-1 { background-color: #FFF1D6 }
+.bg-complement-2 { background-color: #FFE4B3 }
+.bg-complement-3 { background-color: #C49A4D }
+.bg-complement-4 { background-color: #9D7427 }
+nav.bg-dark { background-color: #223B69!important }
