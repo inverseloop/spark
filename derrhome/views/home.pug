@@ -1,0 +1,21 @@
+extends base
+
+block content
+  h1= title
+  p Welcome to boingity #{title}
+  a.badge.badge-primary(href='#') Primary
+  a.badge.badge-secondary(href='#') Secondary
+  a.badge.badge-success(href='#') Success
+  a.badge.badge-danger(href='#') Danger
+  a.badge.badge-warning(href='#') Warning
+  a.badge.badge-info(href='#') Info
+  a.badge.badge-light(href='#') Light
+  a.badge.badge-dark(href='#') Dark
+  
+
+  each type in ['primary', 'secondary-1', 'secondary-2', 'complement']
+    each sub in [0,1,2,3,4]
+      - var c= 'bg-' + type + '-' + sub
+      div(class = 'color-box '+ c)  woo
+
+
